@@ -1,0 +1,20 @@
+# Node modules and temp files
+**/node_modules/
+**/tmp/
+**/temp/
+*.log
+
+# Build files
+dist/
+build/
+
+# Video and binary assets
+*.mp4
+*.mkv
+*.zip
+*.exe
+*.bin
+
+# OS junk
+.DS_Store
+Thumbs.db
